@@ -16,8 +16,8 @@ Uygulama, gerçek bir API'ye bağlanmadan, mock (simüle edilmiş) JSON verisi k
 ## Kullanılan Flutter Sürümü
 
 ```
-Flutter 3.x.x
-Dart 3.x.x
+Flutter 3.44.6
+Dart 3.12.2
 ```
 
 > **Not:** Kendi ortamındaki tam sürüm numarasını görmek için terminalde `flutter --version` komutunu çalıştır ve çıktıdaki değerleri yukarıdaki alana güncelle.
